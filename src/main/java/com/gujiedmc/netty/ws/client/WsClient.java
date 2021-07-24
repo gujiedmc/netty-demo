@@ -1,6 +1,6 @@
-package com.gujiedmc.study.netty.ws.client;
+package com.gujiedmc.netty.ws.client;
 
-import com.gujiedmc.study.netty.ws.server.StringMsgHandler;
+import com.gujiedmc.netty.ws.common.StringMsgHandler;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;

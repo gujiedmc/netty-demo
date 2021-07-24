@@ -1,4 +1,4 @@
-package com.gujiedmc.study.netty.ws.server;
+package com.gujiedmc.netty.ws.common;
 
 import io.netty.channel.*;
 import io.netty.handler.codec.http.websocketx.TextWebSocketFrame;

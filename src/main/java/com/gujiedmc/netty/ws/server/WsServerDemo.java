@@ -1,4 +1,4 @@
-package com.gujiedmc.study.netty.ws.server;
+package com.gujiedmc.netty.ws.server;
 
 import lombok.extern.slf4j.Slf4j;
 
